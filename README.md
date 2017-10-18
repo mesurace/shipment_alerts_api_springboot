@@ -1,7 +1,7 @@
 # shipment_alerts_api_springboot
 
-1 . Download from this link 
-https://github.com/mesurace/shipment_alerts_api_springboot
+ 1 . Download from this link 
+   https://github.com/mesurace/shipment_alerts_api_springboot
 
 2. Extract . Open STS.
 
